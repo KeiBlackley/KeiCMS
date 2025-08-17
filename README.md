@@ -1,6 +1,6 @@
 # Keirran's Content Management System (KeiCMS)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![RELEASE](https://img.shields.io/github/v/release/Keirran-Blackley/KBCOM) ![LICENCE](https://img.shields.io/github/license/Keirran-Blackley/KBCOM.svg) ![ISSUES](https://img.shields.io/github/issues/Keirran-Blackley/KBCOM.svg)
+![RELEASE](https://img.shields.io/github/v/release/KeiBlackley/KeiCMS) ![LICENCE](https://img.shields.io/github/license/KeiBlackley/KeiCMS.svg) ![ISSUES](https://img.shields.io/github/issues/KeiBlackley/KeiCMS.svg)
 
 Coded based CMS ('Content Management System') designed in PHP.
 > Frequent development since 2012.

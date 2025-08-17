@@ -16,7 +16,7 @@ Coded based CMS ('Content Management System') designed in PHP.
 - [Account](#account)
 	- [Settings](#settings)
 	- [Features](#features)
-- [Licence](#./LICENCE)
+- [Licence](#/LICENCE)
 - [Support](#support)
 
 <hr/>
